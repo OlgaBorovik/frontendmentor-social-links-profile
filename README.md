@@ -6,8 +6,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://https://github.com/OlgaBorovik/frontendmentor-social-links-profile)
-- Live Site URL: [Add live site URL here](https://olgaborovik.github.io/frontendmentor-social-links-profile/)
+- Solution URL: [https://https://github.com/OlgaBorovik/frontendmentor-social-links-profile]
+- Live Site URL: [https://olgaborovik.github.io/frontendmentor-social-links-profile/]
 
 ## My process
 
